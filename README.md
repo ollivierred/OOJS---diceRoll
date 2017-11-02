@@ -1,2 +1,2 @@
-# OOJS---diceRoll
+# Dice Roll App
 Dice rolling script with UI
